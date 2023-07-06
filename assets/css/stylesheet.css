@@ -794,7 +794,7 @@
   
   
   /*-----------------------------------*\
-    #PORTFOLIO
+    #PROJECTS
   \*-----------------------------------*/
   
   .filter-list { display: none; }
@@ -1075,7 +1075,7 @@
   
   
     /**
-     * #PORTFOLIO, BLOG 
+     * #PROJECT, BLOG 
      */
   
     .project-img,
@@ -1334,7 +1334,7 @@
   
   
     /**
-     * #PORTFOLIO, BLOG
+     * #PROJECT, BLOG
      */
   
     .project-img, .blog-banner-box { border-radius: 16px; }
@@ -1427,7 +1427,7 @@
   
   
     /**
-     * PORTFOLIO
+     * PROJECT
      */
   
     .article-title { padding-bottom: 20px; }
@@ -1453,7 +1453,7 @@
   
     .filter-item button.active { color: var(--light-blue); }
   
-    /* portfolio and blog grid */
+    /* prject and blog grid */
   
     .project-list, .blog-posts-list { grid-template-columns: 1fr 1fr; }
   
@@ -1572,7 +1572,7 @@
   
   
     /**
-     * PORTFOLIO
+     * PROJECt
      */
   
     .project-list { grid-template-columns: repeat(3, 1fr); }

@@ -128,8 +128,10 @@
   
   body { background: var(--smoky-black); }
   
-  
-  
+  .hover :hover{
+    text-decoration:underline;
+    background-color: aqua;
+  }
   
   
   /*-----------------------------------*\
@@ -749,11 +751,6 @@
     color: var(--light-gray);
     font-weight: var(--fw-300);
     line-height: 1.6;
-  }
-
-  .hover :hover{
-    text-decoration:underline;
-    background-color: aqua;
   }
   
   

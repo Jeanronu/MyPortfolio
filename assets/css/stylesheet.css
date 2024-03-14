@@ -751,7 +751,7 @@
     line-height: 1.6;
   }
 
-  h3 .hover :hover{
+  .hover :hover{
     text-decoration:underline;
     background-color: aqua;
 }

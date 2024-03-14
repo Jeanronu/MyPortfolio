@@ -750,6 +750,11 @@
     font-weight: var(--fw-300);
     line-height: 1.6;
   }
+
+  a .hover :hover{
+    text-decoration:underline;
+    background-color: aqua;
+}
   
   
   /**
